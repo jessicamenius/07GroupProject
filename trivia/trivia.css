@@ -1,0 +1,18 @@
+body {
+  font-family: karla !important;
+}
+
+.center {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+.score {
+  justify-content: right;
+}
+
+.right {
+  justify-content: right;
+}
